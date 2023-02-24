@@ -39,6 +39,11 @@ body {
 }
 
 .navbar {
-    background-color: #512DA8;
+    
+    background-color: hwb(258 29% 15%);
+}
+
+.navbar {
+    color: floralwhite;
 }
 
